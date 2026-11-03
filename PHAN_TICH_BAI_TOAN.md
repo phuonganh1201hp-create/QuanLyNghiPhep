@@ -63,4 +63,4 @@
 - Loại đơn, thời lượng nghỉ và thống kê tính tự động.
 - Lưu JSON qua lần chạy sau, nhật ký thao tác, thông báo và cửa sổ xác nhận.
 - Xuất `.xlsx` độc lập với thư viện NuGet ngoài.
-- 12346517
+- yyytrtryryytyr
