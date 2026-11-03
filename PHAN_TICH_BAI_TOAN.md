@@ -64,3 +64,4 @@
 - Lưu JSON qua lần chạy sau, nhật ký thao tác, thông báo và cửa sổ xác nhận.
 - Xuất `.xlsx` độc lập với thư viện NuGet ngoài.
 - yyytrtryryytyr
+- foQHFWYFWEIUCQUWNIUWEYR
